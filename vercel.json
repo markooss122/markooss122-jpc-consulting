@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/modulos", "destination": "/modulos.html" }
+  ]
+}
